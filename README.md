@@ -1,3 +1,3 @@
 # coursera_machine_learning
-coursera machine learningの自分が提出した課題です。  
-GitHubの使い方を学ぶためにも作りました。
+my submission
+2017/10/28 - 2012017/12/26
